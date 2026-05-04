@@ -1,0 +1,228 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Resume - Shashank Panchwatkar</title>
+
+    <style>
+        body {
+            font-family: 'Segoe UI', sans-serif;
+            background: #eef1f5;
+            margin: 0;
+        }
+
+        .container {
+            width: 850px;
+            margin: 30px auto;
+            background: white;
+            padding: 35px;
+            box-shadow: 0 10px 25px rgba(0, 0, 0, 0.08);
+            border-radius: 10px;
+        }
+
+        /* ✅ HEADER WITH IMAGE */
+        .header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            border-bottom: 2px solid #1f2937;
+            padding-bottom: 15px;
+            margin-bottom: 20px;
+        }
+
+        .left {
+            max-width: 70%;
+        }
+
+        h1 {
+            margin: 5px 0;
+            font-size: 28px;
+            color: #111827;
+        }
+
+        .contact {
+            font-size: 14px;
+            color: #4b5563;
+        }
+
+        .contact a {
+            text-decoration: none;
+            color: #2563eb;
+        }
+
+        .right img {
+            width: 110px;
+            height: 110px;
+            border-radius: 50%;
+            object-fit: cover;
+            border: 3px solid #2563eb;
+        }
+
+        h2 {
+            color: #1f2937;
+            border-left: 4px solid #2563eb;
+            padding-left: 10px;
+            margin-top: 25px;
+            font-size: 18px;
+        }
+
+        p,
+        li {
+            font-size: 14px;
+            color: #374151;
+            line-height: 1.6;
+        }
+
+        ul {
+            padding-left: 18px;
+        }
+
+        .grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 15px;
+        }
+
+        .card {
+            background: #f9fafb;
+            padding: 12px;
+            border-radius: 6px;
+        }
+
+        button {
+            margin-top: 25px;
+            padding: 10px 20px;
+            border: none;
+            background: #111827;
+            color: white;
+            cursor: pointer;
+            border-radius: 5px;
+        }
+
+        button:hover {
+            background: #374151;
+        }
+
+        @media print {
+            button {
+                display: none;
+            }
+
+            body {
+                background: white;
+            }
+
+            .container {
+                box-shadow: none;
+                margin: 0;
+            }
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="container">
+
+        <header class="header">
+            <div class="left">
+                <h1>Shashank Sanjay Panchwatkar</h1>
+                <p class="contact">
+                    +91 7028741905 | shashankpanchwatkar12345@gmail.com <br>
+                    <a href="https://www.linkedin.com/in/shashank-panchwatkar-45808421a/">LinkedIn</a> |
+                    <a href="https://github.com/Shashankpanchwatkar">GitHub</a>
+                </p>
+            </div>
+
+            <div class="right">
+                <!-- ✅ MAKE SURE profile.jpg IS IN SAME FOLDER -->
+                <img src="profile.jpg" alt="Profile Photo">
+            </div>
+        </header>
+
+        <section>
+            <h2>Summary</h2>
+            <p>
+                I’m a 2027 CSE B.Tech graduate with hands-on experience in the full web application lifecycle
+                from conception to deployment. Proficient in React, Node.js, and Spring Boot. Skilled in REST API
+                architecture, cloud deployment strategies, and performance optimization. Passionate about building
+                scalable and efficient web solutions.
+            </p>
+        </section>
+
+        <section>
+            <h2>Education</h2>
+            <div class="grid">
+                <div class="card">
+                    <b>Walchand Institute of Technology</b><br>
+                    B.Tech Computer Engineering<br>
+                    CGPA: 9.46/10<br>
+                    Jan 2025 – July 2026
+                </div>
+                <div class="card">
+                    <b>Annasaheb Magar Jr. College</b><br>
+                    HSC – 57.67%<br>
+                    March 2020
+                </div>
+                <div class="card">
+                    <b>Bharat Madhyamik School</b><br>
+                    SSC – 90.40%<br>
+                    March 2018
+                </div>
+            </div>
+        </section>
+
+        <section>
+            <h2>Experience</h2>
+            <p><b>Web Developer Intern</b> – Jash Data Science Pvt. Ltd., Pune (Dec 2025)</p>
+            <ul>
+                <li>Worked with React for component-based frontend development.</li>
+                <li>Understood Spring Boot backend and REST API architecture.</li>
+                <li>Debugged backend services and MySQL database issues.</li>
+                <li>Integrated frontend, backend, and database in real-world applications.</li>
+                <li>Improved debugging and problem-solving skills.</li>
+            </ul>
+        </section>
+
+        <section>
+            <h2>Projects</h2>
+            <p><b>Online Bookstore Management System</b></p>
+            <ul>
+                <li>Built full-stack app using Java, Spring Boot, Hibernate.</li>
+                <li>Implemented Razorpay for secure payments.</li>
+                <li>Used Twilio API for SMS notifications.</li>
+                <li>Designed responsive UI using HTML, CSS, JavaScript.</li>
+                <li>Followed MVC architecture for scalability.</li>
+            </ul>
+        </section>
+
+        <section>
+            <h2>Technical Skills</h2>
+            <div class="grid">
+                <div class="card">
+                    <b>Languages</b><br>
+                    JavaScript, Java, Python, SQL, HTML, CSS, MongoDB
+                </div>
+                <div class="card">
+                    <b>Frameworks</b><br>
+                    React, Node.js, Flask, Django, Spring Boot
+                </div>
+                <div class="card">
+                    <b>Tools</b><br>
+                    Git, Docker, GCP, VS Code, IntelliJ, Eclipse
+                </div>
+                <div class="card">
+                    <b>Libraries</b><br>
+                    Selenium, Socket.IO, Express.js, Mongoose, WebRTC
+                </div>
+            </div>
+        </section>
+
+        <button onclick="window.print()">Download Resume</button>
+
+    </div>
+
+</body>
+
+</html>
