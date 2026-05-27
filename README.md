@@ -54,12 +54,12 @@ fun_fact  : "I believe in myself ⚡"
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=shashankpanchwatkar&show_icons=true&hide_border=true&bg_color=0a0a0a&title_color=39ff14&icon_color=39ff14&text_color=888888&rank_icon=github" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shashankpanchwatkar&hide_border=true&background=0a0a0a&ring=39ff14&fire=39ff14&currStreakLabel=39ff14&sideLabels=888888&dates=555555&currStreakNum=ffffff&sideNums=888888" width="48%" />
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=shashankpanchwatkar&show_icons=true&hide_border=true&bg_color=0a0a0a&title_color=39ff14&icon_color=39ff14&text_color=888888" />
+<img height="180em" src="https://streak-stats.demolab.com?user=shashankpanchwatkar&hide_border=true&background=0a0a0a&ring=39ff14&fire=39ff14&currStreakLabel=39ff14&sideLabels=888888&dates=555555&currStreakNum=ffffff&sideNums=888888" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashankpanchwatkar&layout=compact&hide_border=true&bg_color=0a0a0a&title_color=39ff14&text_color=888888" width="40%" />
+<img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shashankpanchwatkar&layout=compact&hide_border=true&bg_color=0a0a0a&title_color=39ff14&text_color=888888&langs_count=8" />
 
 </div>
 
@@ -71,8 +71,18 @@ fun_fact  : "I believe in myself ⚡"
 
 ---
 
+### `~/github-trophies`
+
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&pause=1000&color=39FF1444&center=true&vCenter=true&width=500&lines=root%40github%3A~%24+always+learning...;root%40github%3A~%24+always+building...;root%40github%3A~%24+always+improving..." alt="footer typing" />
+<img src="https://github-profile-trophy.vercel.app/?username=shashankpanchwatkar&theme=matrix&no-frame=true&no-bg=true&margin-w=6&column=6" />
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&pause=1000&color=39FF1460&center=true&vCenter=true&width=500&lines=root%40github%3A~%24+always+learning...;root%40github%3A~%24+always+building...;root%40github%3A~%24+always+improving..." alt="footer typing" />
 
 </div>
