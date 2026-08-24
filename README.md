@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=39FF14&background=00000000&center=true&vCenter=true&width=600&lines=SHASHANK+PANCHWATKAR;Java+Full+Stack+Developer;CSE+Student+%7C+Open+Source;Building+Cool+Stuff+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=39FF14&background=00000000&center=true&vCenter=true&width=600&lines=SHASHANK+PANCHWATKAR;Java+Full+Stack+Developer;Solution+Architect+%7C+Terraform;CSE+Student+%7C+Open+Source;Building+Cool+Stuff+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/>
 
@@ -18,6 +18,7 @@ name      : Shashank Panchwatkar
 role      : Java Full Stack Developer
 status    : CSE Student · Open Source Learner
 learning  : [Java, React, Spring Boot, Web Development]
+completed : [Solution Architecture, Terraform]
 building  : Video Chat App (React + Spring Boot + WebRTC)
 contact   : shashankpanchwatkar12345@gmail.com
 github    : github.com/Shashankpanchwatkar
@@ -35,6 +36,7 @@ fun_fact  : "I believe in myself ⚡"
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-%23000000.svg?style=for-the-badge&logo=spring-boot&logoColor=39ff14)
 ![Docker](https://img.shields.io/badge/Docker-%23000000.svg?style=for-the-badge&logo=docker&logoColor=39ff14)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23000000.svg?style=for-the-badge&logo=kubernetes&logoColor=39ff14)
+![Terraform](https://img.shields.io/badge/Terraform-%23000000.svg?style=for-the-badge&logo=terraform&logoColor=39ff14)
 ![Python](https://img.shields.io/badge/Python-%23000000.svg?style=for-the-badge&logo=python&logoColor=39ff14)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23000000.svg?style=for-the-badge&logo=javascript&logoColor=39ff14)
 ![AWS](https://img.shields.io/badge/AWS-%23000000.svg?style=for-the-badge&logo=amazon-aws&logoColor=39ff14)
@@ -54,12 +56,12 @@ fun_fact  : "I believe in myself ⚡"
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=shashankpanchwatkar&show_icons=true&hide_border=true&bg_color=0a0a0a&title_color=39ff14&icon_color=39ff14&text_color=888888" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shashankpanchwatkar&show_icons=true&hide_border=true&bg_color=0a0a0a&title_color=39ff14&icon_color=39ff14&text_color=888888" />
 <img height="180em" src="https://streak-stats.demolab.com?user=shashankpanchwatkar&hide_border=true&background=0a0a0a&ring=39ff14&fire=39ff14&currStreakLabel=39ff14&sideLabels=888888&dates=555555&currStreakNum=ffffff&sideNums=888888" />
 
 <br/>
 
-<img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shashankpanchwatkar&layout=compact&hide_border=true&bg_color=0a0a0a&title_color=39ff14&text_color=888888&langs_count=8" />
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashankpanchwatkar&layout=compact&hide_border=true&bg_color=0a0a0a&title_color=39ff14&text_color=888888&langs_count=8" />
 
 </div>
 
