@@ -37,6 +37,7 @@ pipeline:
 connect:
   email       : shashankpanchwatkar12345@gmail.com
   github      : github.com/Shashankpanchwatkar
+  website     : shashank.cyou
 
 manifesto     : "I believe in myself ⚡"
 ```
@@ -147,6 +148,9 @@ manifesto     : "I believe in myself ⚡"
 
 <div align="center">
 
+<a href="https://shashank.cyou">
+<img src="https://img.shields.io/badge/WEBSITE-00d9ff?style=for-the-badge&logo=vercel&logoColor=0a0e27&labelColor=0a0e27" />
+</a>
 <a href="mailto:shashankpanchwatkar12345@gmail.com">
 <img src="https://img.shields.io/badge/EMAIL-00d9ff?style=for-the-badge&logo=gmail&logoColor=0a0e27&labelColor=0a0e27" />
 </a>
